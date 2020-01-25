@@ -10,8 +10,8 @@ Capture tracks from eye movement and then convert it to an art work by using neu
  Install dependancies 
  
  Start python example.py
-![alt text](https://github.com/husninazer/arteye/blob/master/ARTEYE%20LOGO.gif "gif 1")
-https://github.com/husninazer/arteye/blob/master/ARTEYE%20LOGO.gif
+
+![alt text]( https://github.com/husninazer/arteye/blob/master/ezgif.com-crop.gif "gif 1")
 
 
 ## Using the style transfer application
