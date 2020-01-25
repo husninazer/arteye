@@ -33,3 +33,10 @@ npm install
 node ./transfer.js transfer -c <contentImagePath> -s <styleImagePath> -o <outputImagePath> [--gpu]
 ```
 
+## Samples
+
+### Gaze tracked image
+![alt text](https://github.com/husninazer/arteye/blob/master/style-transfer/images/input1.png "gif 1")
+
+### Art Output
+![alt text]( https://github.com/husninazer/arteye/blob/master/style-transfer/output.jpg "gif 1")
