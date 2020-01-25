@@ -30,7 +30,7 @@ async function run (contentImagePath, styleImagePath, outputImagePath) {
 
   const optimizer = tf.train.adam(2)
 
-  for (let i = 0; i < 200; i++) {
+  for (let i = 0; i < 150; i++) {
     const start = Date.now()
     const cost = optimizer.minimize(() => loss(), true, [outputImage])
     console.log(`epoch: ${i + 1}/2000, cost: ${cost.dataSync()}, use ${(Date.now() - start) / 1000}s`)
