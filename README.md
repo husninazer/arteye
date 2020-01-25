@@ -1,12 +1,15 @@
 # Arteye
 ![alt text](https://github.com/husninazer/arteye/blob/master/ARTEYE%20LOGO.gif "Logo Title Text 1")
+
 Capture tracks from eye movement and then convert it to an art work by using neural network model - style transfer.
 
 
 ## Using the gaze tracking.
 <em>Credits: antoinelame</em>
- ...Install dependancies 
- ...Start python example.py
+
+ Install dependancies 
+ 
+ Start python example.py
 
 ## Using the style transfer application
 <em>Credits:DavidCai1993</em>
