@@ -5,8 +5,8 @@ Capture tracks from eye movement and then convert it to an art work by using neu
 
 ## Using the gaze tracking.
 <em>Credits: antoinelame</em>
-Install dependancies 
-Start python example.py
+ ...Install dependancies 
+ ...Start python example.py
 
 ## Using the style transfer application
 <em>Credits:DavidCai1993</em>
